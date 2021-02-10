@@ -1,0 +1,26 @@
+.container{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.Buy-Now-Button{
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 9px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.logo{
+    height: 60px;
+    width: 250px;
+}
+h2{
+    color: tomato;
+    font-weight: bold;
+}
+.card{
+    border-radius: 10px;
+}
+h5{
+    color: darkslategrey;
+}
